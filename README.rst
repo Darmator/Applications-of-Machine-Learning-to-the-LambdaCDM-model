@@ -13,5 +13,6 @@ Resumen:
 
 El modelo $\Lambda$CDM es el modelo cosmológico estándar usado para describir la evolución del universo a gran escala. Este se cimenta en la teoría de la relatividad general y se desarrolla al aplicar las ecuaciones de Einstein bajo ciertas simplificaciones. A partir de soluciones analíticas y numéricas del modelo exploraremos las predicciones que este describe para distintos tipos de universos. A su vez, estimaremos los parámetros que modelizan nuestro universo usando mediciones modernas de la variable de Hubble mediante tres métodos distintos: el cálculo de la mediana, métodos de Cadenas de Markov Monte Carlo, y la introducción de redes neuronales. Por último, compararemos nuestros resultados con los del experimento Planck y observaremos las discrepancias que están surgiendo en el modelo $\Lambda$CDM entre el estudio de supernovas y el fondo cósmico de microondas.
 
-Archivos:
+Datos de Planck:
 ------------
+Los datos de Planck al completo se pueden encontrar en: http://pla.esac.esa.int/pla/#cosmology
