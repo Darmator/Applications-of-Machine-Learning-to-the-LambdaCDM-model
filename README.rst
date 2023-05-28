@@ -16,3 +16,7 @@ El modelo $\Lambda$CDM es el modelo cosmológico estándar usado para describir 
 Datos de Planck:
 ------------
 Los datos de Planck al completo se pueden encontrar en: http://pla.esac.esa.int/pla/#cosmology
+
+Entorno de Anaconda:
+-----------
+Para correr el código se recomienda usar el entorno de Anaconda: lcdm.yml
